@@ -1,0 +1,7 @@
+{
+  "name": "i-sihat & Tlow Dental Internal Locator",
+  "description": "Internal organizational tool for staff to locate the nearest i-sihat or Tlow Dental branch in Malaysia for customer referrals.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
